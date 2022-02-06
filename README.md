@@ -3,7 +3,7 @@
 * Cleaned the data and engineered features to optimize the model.
 * Optimized lasso, random forest regressor, and gradient boosting regressors using GridsearchCV to reach the best model.
 
-<img width="1098" alt="Screen Shot 2021-12-31 at 1 24 38 PM" src="https://user-images.githubusercontent.com/91089401/147839333-83dd4ef8-e32b-44bc-ab78-50449d6cd224.png">
+![Screenshot (90)](https://user-images.githubusercontent.com/91089401/152703701-60592515-c85d-4e5e-aba9-288652c7eb4d.png)
 
 # [Project 2: Video Game Sales (EDA)](https://github.com/ryansxiong/Video_Game_Sales_ds_proj)
 The purpose for this project is to use exploratory analysis to understand how the data is distributed and to find insights for future decision-making. My analysis for video game sales are from 1980-2020. In this project you will find questions that I predicted stake holders will want to know about the data. I also created an easy to use interactive dashboard using tableau.
