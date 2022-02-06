@@ -1,5 +1,3 @@
-# Ryan_Portfolio
-
 # [Project 1: Video Game Sales Estimator (Project Overview)](https://github.com/ryansxiong/VG_Sales_Estimator) 
 * Created a model to forecast video game sales.
 * Cleaned the data and engineered features to optimize the model.
