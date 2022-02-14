@@ -57,4 +57,12 @@ Used python packages (pandas, matplotlib, seaborn, numpy) to clean and analyze d
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Project 6: 
+[Project 6: Video Game Sales (EDA)](https://github.com/ryansxiong/Video_Game_Sales_ds_proj)
+
+[link to full code](https://github.com/ryansxiong/Video_Game_Sales_ds_proj/blob/main/.ipynb_checkpoints/Untitled-checkpoint.ipynb)
+
+Used python packages (pandas, matplotlib, numpy) to clean and analyze data for video game sales from 1980-2020
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
