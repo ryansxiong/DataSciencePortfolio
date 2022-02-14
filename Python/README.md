@@ -10,7 +10,7 @@ Created a function that uses Numpy to output the mean, variance, standard deviat
 
 [Project 3: Demographic EDA](https://github.com/ryansxiong/DS_Demographic_EDA)
 
-Cleaned and analyzed demographic data that was extracted from the 1994 census database. Below are the questions that I found while exploring the data.
+Cleaned and analyzed demographic data that was extracted from the 1994 census database. Below are the questions that I answered while exploring the data.
 * How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 * What is the average age of men?
 * What is the percentage of people who have a Bachelor's degree?
