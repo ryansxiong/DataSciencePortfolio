@@ -6,12 +6,14 @@ In this project, I show my understanding of Object-oriented programming with pyt
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/91089401/142960172-15499e75-6923-4b70-9074-0bf4e7914a3d.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [Project 2: Mean Variance Standard Deviation Calculator](https://github.com/ryansxiong/Mean_Variance_StandardDeviation_Calculator) 
 
 [link to full code](https://github.com/ryansxiong/Mean_Variance_StandardDeviation_Calculator/blob/main/code.py)
 
 Created a function that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [Project 3: Demographic EDA](https://github.com/ryansxiong/DS_Demographic_EDA)
 
 Cleaned and analyzed demographic data that was extracted from the 1994 census database. Below are the questions that I answered while exploring the data.
@@ -25,6 +27,7 @@ Cleaned and analyzed demographic data that was extracted from the 1994 census da
 * What country has the highest percentage of people that earn >50K and what is that percentage?
 * Identify the most popular occupation for those who earn >50K in India.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [Project 4: Cyclist DS](https://github.com/ryansxiong/DS_cyclist_project) 
 
 This data science project is where I look at the differences between casual and member cyclist riders.
@@ -33,6 +36,7 @@ This data science project is where I look at the differences between casual and 
 
 ![Count of Rides by Member Type](https://user-images.githubusercontent.com/91089401/139720951-6db83f21-6afa-4247-b82b-81a2e1753e1d.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [Project 5: New World DS](https://github.com/ryansxiong/DS_New_World_Quests)
 
 [link to full code](https://github.com/ryansxiong/DS_New_World_Quests/blob/main/New_World_Quests_DS_proj.ipynb)
