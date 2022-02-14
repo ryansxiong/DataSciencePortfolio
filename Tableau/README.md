@@ -2,7 +2,7 @@
 
 [link to interactive dashboard](https://public.tableau.com/app/profile/ryan.xiong/viz/VideoGameSalesProject_16405800850660/Dashboard1)
 
-Created an interactive dashboard for the video game sales project. (Below are features that I wanted in the dashboard)
+Created an interactive dashboard for the video game sales project. Below are features that I wanted in the dashboard.
 * Shows global sales over time (1980 - 2020)
 * choose the specific region and year to show sales for both the platform and genre.
   * Bar graph and numbers chart changes accordingly to which region and year is selected above.
