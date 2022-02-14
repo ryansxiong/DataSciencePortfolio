@@ -1,3 +1,9 @@
+Skills/Concepts
+* Object-Oriented Programming (OOP)
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization (Matplotlib, Seaborn, Plotly)
+
 [Project 1: Sudoku](https://github.com/ryansxiong/Sudoku_with_Python)
 
 [link to full code](https://github.com/ryansxiong/Sudoku_with_Python/blob/master/Sudoku%20Proj.py)
