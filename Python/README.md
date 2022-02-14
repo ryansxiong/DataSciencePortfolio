@@ -3,6 +3,7 @@
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 * Data Visualization (Matplotlib, Seaborn, Plotly)
+* Modelling (Scikit-learn)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Project 1: Sudoku](https://github.com/ryansxiong/Sudoku_with_Python)
@@ -65,4 +66,8 @@ Used python packages (pandas, matplotlib, numpy) to clean and analyze data for v
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[Project 7: Video Game Sales Estimator](https://github.com/ryansxiong/VG_Sales_Estimator) 
 
+[link to full code](https://github.com/ryansxiong/VG_Sales_Estimator/blob/main/VG%20Sales%20Modelling.ipynb)
+
+Forecasting video game sales from project 6. The project involved data cleaning, feature engineering, and scikit learn to create a model.
