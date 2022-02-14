@@ -1,4 +1,4 @@
-Skills/Concepts
+# Skills/Concepts
 * Object-Oriented Programming (OOP)
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
