@@ -3,6 +3,7 @@
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 * Data Visualization (Matplotlib, Seaborn, Plotly)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Project 1: Sudoku](https://github.com/ryansxiong/Sudoku_with_Python)
 
