@@ -38,7 +38,6 @@ This data science project is where I look at the differences between casual and 
 * Used pandas to clean and analyzed data.
 * Used matplotlib as a visualization tool to have a better understanding of the data. 
 
-![Count of Rides by Member Type](https://user-images.githubusercontent.com/91089401/139720951-6db83f21-6afa-4247-b82b-81a2e1753e1d.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Project 5: New World DS](https://github.com/ryansxiong/DS_New_World_Quests)
