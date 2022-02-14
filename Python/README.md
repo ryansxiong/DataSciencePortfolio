@@ -71,3 +71,7 @@ Used python packages (pandas, matplotlib, numpy) to clean and analyze data for v
 [link to full code](https://github.com/ryansxiong/VG_Sales_Estimator/blob/main/VG%20Sales%20Modelling.ipynb)
 
 Forecasting video game sales from project 6. The project involved data cleaning, feature engineering, and scikit learn to create a model.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Project 8: 
