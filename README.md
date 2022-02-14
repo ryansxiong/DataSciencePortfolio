@@ -1,3 +1,5 @@
+# Data Science Projects
+
 # [Project 1: Titanic - Machine Learning From Disaster](https://github.com/ryansxiong/Titanic_DS)
 This is a ML competition on Kaggle. The purpose of this project is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. I was able to submit a model with 79% accuracy, which placed me in the top 8% out of 13914 participants.
 
