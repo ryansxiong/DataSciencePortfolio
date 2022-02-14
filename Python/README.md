@@ -78,4 +78,4 @@ Forecasting video game sales from project 6. The project involved data cleaning,
 
 [link to full code](https://github.com/ryansxiong/Titanic_DS/blob/main/titanic.ipynb)
 
-Creating a model to predict the survivors from the titanic shipwreck (Machine Learning competition from Kaggle). Used python packages (pandas, scikit learn, matplotlib, seaborn).
+Creating a model to predict the survivors from the titanic shipwreck (_Machine Learning competition from Kaggle_). Used python packages (pandas, scikit learn, matplotlib, seaborn).
