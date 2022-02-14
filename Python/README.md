@@ -74,4 +74,8 @@ Forecasting video game sales from project 6. The project involved data cleaning,
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Project 8: 
+[Project 8: Titanic Machin Learning From Disaster](https://github.com/ryansxiong/Titanic_DS)
+
+[link to full code](https://github.com/ryansxiong/Titanic_DS/blob/main/titanic.ipynb)
+
+Creating a model to predict the survivors from the titanic shipwreck (Machine Learning competition from Kaggle). Used python packages (pandas, scikit learn, matplotlib, seaborn).
