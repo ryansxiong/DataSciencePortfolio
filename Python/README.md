@@ -20,3 +20,11 @@ Cleaned and analyzed demographic data that was extracted from the 1994 census da
 * What percentage of the people who work the minimum number of hours per week have a salary of more than 50K?
 * What country has the highest percentage of people that earn >50K and what is that percentage?
 * Identify the most popular occupation for those who earn >50K in India.
+
+[Project 4: Cyclist DS](https://github.com/ryansxiong/DS_cyclist_project) 
+
+This data science project is where I look at the differences between casual and member cyclist riders.
+* Used pandas to clean and analyzed data.
+* Used matplotlib as a visualization tool to have a better understanding of the data. 
+
+![Count of Rides by Member Type](https://user-images.githubusercontent.com/91089401/139720951-6db83f21-6afa-4247-b82b-81a2e1753e1d.png)
