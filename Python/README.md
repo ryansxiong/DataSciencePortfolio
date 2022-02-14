@@ -5,8 +5,8 @@
 In this project, I show my understanding of Object-oriented programming with python by recreating Sudoku.
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/91089401/142960172-15499e75-6923-4b70-9074-0bf4e7914a3d.png)
-
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**[Project 2: Mean Variance Standard Deviation Calculator](https://github.com/ryansxiong/Mean_Variance_StandardDeviation_Calculator) 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Project 2: Mean Variance Standard Deviation Calculator](https://github.com/ryansxiong/Mean_Variance_StandardDeviation_Calculator) 
 
 [link to full code](https://github.com/ryansxiong/Mean_Variance_StandardDeviation_Calculator/blob/main/code.py)
 
