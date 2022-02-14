@@ -32,6 +32,8 @@ Cleaned and analyzed demographic data that was extracted from the 1994 census da
 
 [Project 4: Cyclist DS](https://github.com/ryansxiong/DS_cyclist_project) 
 
+[link to full code](https://github.com/ryansxiong/DS_cyclist_project/blob/main/ds_cyclist_proj_datacleaning-checkpoint.ipynb)
+
 This data science project is where I look at the differences between casual and member cyclist riders.
 * Used pandas to clean and analyzed data.
 * Used matplotlib as a visualization tool to have a better understanding of the data. 
