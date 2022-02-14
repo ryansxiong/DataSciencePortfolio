@@ -43,6 +43,6 @@ This data science project is where I look at the differences between casual and 
 [Project 5: New World DS](https://github.com/ryansxiong/DS_New_World_Quests)
 
 [link to full code](https://github.com/ryansxiong/DS_New_World_Quests/blob/main/New_World_Quests_DS_proj.ipynb)
+Used python packages (pandas, matplotlib, seaborn, numpy) to clean and analyze data from the game "New World"
 
-Used python packages (pandas, matplotlib, seaborn, numpy) to clean and analyze data from the game "New World."
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
