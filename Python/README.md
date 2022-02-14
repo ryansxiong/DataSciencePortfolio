@@ -47,3 +47,5 @@ This data science project is where I look at the differences between casual and 
 Used python packages (pandas, matplotlib, seaborn, numpy) to clean and analyze data from the game "New World"
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Project 6: 
